@@ -57,4 +57,4 @@ def test_list_sites():
     assert "site.com" in sites
     assert "facebook.com" in sites
     assert "google.com" in sites
-    assert len(sites) == 3
+    assert len(sites) == 6
